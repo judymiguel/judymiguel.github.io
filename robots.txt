@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://judymiguel.github.io/sitemap.xml

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Judy&#39;s Blog</title>
+    <link>https://judymiguel.github.io/</link>
+    <description>Recent content on Judy&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 11 Feb 2023 19:22:22 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstblog</title>
+      <link>https://judymiguel.github.io/posts/blogs/firstblog/</link>
+      <pubDate>Sat, 11 Feb 2023 19:22:22 +0800</pubDate>
+      
+      <guid>https://judymiguel.github.io/posts/blogs/firstblog/</guid>
+      <description>试验：第一篇博客 一、构建图像分类数据集 注：如果都在云平台运行，不需要B4了 1.制作图像分类数据的注意事项 数据集应尽可能包括目标物体的各类场景</description>
+    </item>
+    
+    <item>
+      <title>🙋🏻‍♂️关于</title>
+      <link>https://judymiguel.github.io/about/</link>
+      <pubDate>Sat, 11 Feb 2023 18:00:00 +0800</pubDate>
+      
+      <guid>https://judymiguel.github.io/about/</guid>
+      <description>关于我 英文名: Judy 职业: 程序员 运动: 跑步、乒乓球</description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://judymiguel.github.io/posts/blogs/blogs/</link>
+      <pubDate>Sat, 11 Feb 2023 18:00:00 +0800</pubDate>
+      
+      <guid>https://judymiguel.github.io/posts/blogs/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://judymiguel.github.io/posts/life/life/</link>
+      <pubDate>Sat, 11 Feb 2023 18:00:00 +0800</pubDate>
+      
+      <guid>https://judymiguel.github.io/posts/life/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Read</title>
+      <link>https://judymiguel.github.io/posts/read/read/</link>
+      <pubDate>Sat, 11 Feb 2023 18:00:00 +0800</pubDate>
+      
+      <guid>https://judymiguel.github.io/posts/read/read/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
