@@ -2,54 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://judymiguel.github.io/posts/blogs/</loc>
+    <loc>http://judymiguel.github.io/posts/tech/</loc>
+    <lastmod>2023-02-12T20:07:19+08:00</lastmod>
+  </url><url>
+    <loc>http://judymiguel.github.io/posts/</loc>
+    <lastmod>2023-02-12T20:07:19+08:00</lastmod>
+  </url><url>
+    <loc>http://judymiguel.github.io/</loc>
+    <lastmod>2023-02-12T20:07:19+08:00</lastmod>
+  </url><url>
+    <loc>http://judymiguel.github.io/posts/tech/secondblog/</loc>
+    <lastmod>2023-02-12T20:07:19+08:00</lastmod>
+  </url><url>
+    <loc>http://judymiguel.github.io/posts/tech/firstblog/</loc>
     <lastmod>2023-02-11T19:22:22+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/posts/</loc>
-    <lastmod>2023-02-11T19:22:22+08:00</lastmod>
-  </url><url>
-    <loc>https://judymiguel.github.io/posts/blogs/firstblog/</loc>
-    <lastmod>2023-02-11T19:22:22+08:00</lastmod>
-  </url><url>
-    <loc>https://judymiguel.github.io/</loc>
-    <lastmod>2023-02-11T19:22:22+08:00</lastmod>
-  </url><url>
-    <loc>https://judymiguel.github.io/posts/read/</loc>
+    <loc>http://judymiguel.github.io/posts/read/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/about/</loc>
+    <loc>http://judymiguel.github.io/about/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/tags/blogs/</loc>
+    <loc>http://judymiguel.github.io/tags/life/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/posts/blogs/blogs/</loc>
+    <loc>http://judymiguel.github.io/posts/life/life/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/tags/life/</loc>
+    <loc>http://judymiguel.github.io/tags/read/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/posts/life/life/</loc>
+    <loc>http://judymiguel.github.io/posts/read/read/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/tags/read/</loc>
+    <loc>http://judymiguel.github.io/tags/tech/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/posts/read/read/</loc>
+    <loc>http://judymiguel.github.io/posts/tech/tech/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/posts/life/</loc>
+    <loc>http://judymiguel.github.io/posts/life/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/tags/</loc>
+    <loc>http://judymiguel.github.io/links/</loc>
     <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/archives/</loc>
+    <loc>http://judymiguel.github.io/tags/</loc>
+    <lastmod>2023-02-11T18:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://judymiguel.github.io/search/</loc>
+    <loc>http://judymiguel.github.io/archives/</loc>
   </url><url>
-    <loc>https://judymiguel.github.io/categories/</loc>
+    <loc>http://judymiguel.github.io/search/</loc>
   </url><url>
-    <loc>https://judymiguel.github.io/series/</loc>
+    <loc>http://judymiguel.github.io/categories/</loc>
+  </url><url>
+    <loc>http://judymiguel.github.io/series/</loc>
   </url>
 </urlset>
