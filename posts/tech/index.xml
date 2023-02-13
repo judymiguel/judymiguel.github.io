@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on Judy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Feb 2023 20:07:19 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 18:02:59 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git清空远程仓库</title>
+      <link>https://judymiguel.github.io/posts/tech/git%E6%B8%85%E7%A9%BA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/</link>
+      <pubDate>Mon, 13 Feb 2023 18:02:59 +0800</pubDate>
+      
+      <guid>https://judymiguel.github.io/posts/tech/git%E6%B8%85%E7%A9%BA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/</guid>
+      <description>场景：想要清空github远程仓库的所有文件和文件夹但不删除该仓库 说明：本文方法在2023-02-13那天Windows 10 64位系统下亲测有</description>
+    </item>
+    
     <item>
       <title>Secondblog</title>
       <link>https://judymiguel.github.io/posts/tech/secondblog/</link>
