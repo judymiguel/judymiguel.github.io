@@ -6,14 +6,23 @@
     <description>Recent content on Judy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Feb 2023 18:02:59 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 14:22:28 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Git清空远程仓库</title>
-      <link>https://judymiguel.github.io/posts/tech/git%E6%B8%85%E7%A9%BA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/</link>
-      <pubDate>Mon, 13 Feb 2023 18:02:59 +0800</pubDate>
+      <title>机器学习回归</title>
+      <link>https://judymiguel.github.io/posts/tech/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9B%9E%E5%BD%92/</link>
+      <pubDate>Fri, 24 Feb 2023 14:22:28 +0800</pubDate>
       
-      <guid>https://judymiguel.github.io/posts/tech/git%E6%B8%85%E7%A9%BA%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93/</guid>
-      <description>场景：想要清空github远程仓库的所有文件和文件夹但不删除该仓库 说明：本文方法在2023-02-13那天Windows 10 64位系统下亲测有</description>
+      <guid>https://judymiguel.github.io/posts/tech/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9B%9E%E5%BD%92/</guid>
+      <description>李宏毅机器学习第二课——回归 1.定义 监督学习主要分为回归问题和分类问题，若输出变量Y为连续值则是回归问题（如判断鸢尾花种类），若输出变量Y为</description>
+    </item>
+    
+    <item>
+      <title>PS去水印</title>
+      <link>https://judymiguel.github.io/posts/tech/ps%E5%8E%BB%E6%B0%B4%E5%8D%B0/</link>
+      <pubDate>Mon, 13 Feb 2023 19:44:49 +0800</pubDate>
+      
+      <guid>https://judymiguel.github.io/posts/tech/ps%E5%8E%BB%E6%B0%B4%E5%8D%B0/</guid>
+      <description>实用技能： 去水印去图片附加的元素&amp;ndash;打开photoshop-&amp;gt;L套索工具圈住水印-&amp;gt;Shift+F5-&amp;gt;内容识别</description>
     </item>
     
     <item>
@@ -59,15 +68,6 @@
       
       <guid>https://judymiguel.github.io/posts/tech/tech/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>🤝友链</title>
-      <link>https://judymiguel.github.io/links/</link>
-      <pubDate>Sat, 11 Feb 2023 18:00:00 +0800</pubDate>
-      
-      <guid>https://judymiguel.github.io/links/</guid>
-      <description>👉友链格式 名称： Judy&amp;rsquo;s Blog 网址： https://judymiguel.github.io 图标： https://judymiguel.github.io/img/j1.jpg 描述： 一个记录技术、阅读、生活的博客 👉友链申请要求 秉承互换友链原则、文章定期更新、不能有太多广告、个人描</description>
     </item>
     
     
