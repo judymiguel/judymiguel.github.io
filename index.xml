@@ -6,16 +6,7 @@
     <description>Recent content on Judy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 24 Feb 2023 14:22:28 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>机器学习回归</title>
-      <link>https://judymiguel.github.io/posts/tech/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9B%9E%E5%BD%92/</link>
-      <pubDate>Fri, 24 Feb 2023 14:22:28 +0800</pubDate>
-      
-      <guid>https://judymiguel.github.io/posts/tech/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9B%9E%E5%BD%92/</guid>
-      <description>李宏毅机器学习第二课——回归 1.定义 监督学习主要分为回归问题和分类问题，若输出变量Y为连续值则是回归问题（如判断鸢尾花种类），若输出变量Y为</description>
-    </item>
-    
+    <lastBuildDate>Mon, 13 Feb 2023 19:44:49 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PS去水印</title>
       <link>https://judymiguel.github.io/posts/tech/ps%E5%8E%BB%E6%B0%B4%E5%8D%B0/</link>
