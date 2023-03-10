@@ -6,7 +6,16 @@
     <description>Recent content in 👨🏻‍💻 技术 on Judy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 13 Feb 2023 19:44:49 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 21:22:46 +0800</lastBuildDate><atom:link href="https://judymiguel.github.io/posts/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试公式</title>
+      <link>https://judymiguel.github.io/posts/tech/%E6%B5%8B%E8%AF%95%E5%85%AC%E5%BC%8F/</link>
+      <pubDate>Fri, 10 Mar 2023 21:22:46 +0800</pubDate>
+      
+      <guid>https://judymiguel.github.io/posts/tech/%E6%B5%8B%E8%AF%95%E5%85%AC%E5%BC%8F/</guid>
+      <description>一元线性模型 $${y=wx+b}$$ 多元线性模型 $$y=\Sigma w_ix_i$$ 非线性模型 特征与标签之间没有线性关系，可能成高次方关系。 3.模型评估——损失函数 $y_i$表示数据真实值，$\</description>
+    </item>
+    
     <item>
       <title>PS去水印</title>
       <link>https://judymiguel.github.io/posts/tech/ps%E5%8E%BB%E6%B0%B4%E5%8D%B0/</link>
